@@ -1,2 +1,2 @@
 # Tax_Notice_Agentic_Process_UiPathAgentHack-2026
-Agentic process of tax notice management
+To start the process : send an email to configured email address with subject containing Tax
